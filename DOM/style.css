@@ -1,0 +1,30 @@
+h2 {
+    color:green;
+    background-color: yellow;
+    width: 200px;
+    height:200px
+    
+}
+
+/* li {
+    color:red
+} */
+/* 
+ol {
+    color:red;
+}
+
+ul {
+    color:green;
+} */
+
+.fruit {
+    color:red
+}
+.veg {
+    color:green
+}
+
+#one {
+    color:purple
+}
